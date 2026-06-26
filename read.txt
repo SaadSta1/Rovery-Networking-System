@@ -1,0 +1,17 @@
+Hi, I'm RoveryCode.
+
+I have over 3 years of experience developing games on Roblox. I enjoy creating high-quality systems and gameplay mechanics while writing clean, organized, and efficient Luau code.
+
+I have experience with:
+• Object-Oriented Programming (OOP)
+• Roblox Luau
+• Knit Framework
+• RemoteEvents & RemoteFunctions
+• ModuleScripts
+• DataStoreService
+• UI Development
+• VFX Systems
+• Optimization & Performance
+• TweenService
+• Pathfinding
+• Custom Networking Systems
